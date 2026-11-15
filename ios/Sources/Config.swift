@@ -11,7 +11,7 @@ enum Config {
     static let allowedHosts = ["sas.smpnegeri45sby.sch.id"]
 
     /// PIN pengawas untuk membuka kunci / keluar dari ujian. GANTI SEBELUM DIPAKAI!
-    static let proctorPin = "450945"
+    static let proctorPin = "454545"
 
     /// KUNCI RAHASIA tanda pengenal aplikasi ke server. Harus SAMA dengan ILOK_SECRET di server/ilok_guard.php
     /// dan Config.SECRET di aplikasi Android. GANTI dengan teks acak panjang!
