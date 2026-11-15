@@ -7,9 +7,3 @@
 - Tanda pengenal rahasia ke server → website hanya bisa dibuka lewat ILOK (lihat `server/PANDUAN_SERVER.md`)
 - Kunci perangkat di SERVER + panel guru untuk membuka kunci (lihat server/PANDUAN_SERVER.md)
 - Sesi/cookie dihapus saat keluar
-
-## Keluar dari ujian
-Ketuk **logo kecil pojok kiri atas 5 kali** → masukkan PIN pengawas.
-
-## Versi iOS
-Ada di folder `ios/` — lihat `ios/README_iOS.md`. Workflow: `.github/workflows/ios.yml`.
